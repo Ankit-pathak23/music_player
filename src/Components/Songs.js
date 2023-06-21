@@ -4,7 +4,7 @@ const Songs = [
     favourite: false,
     songName: "Bella Ciao",
     artist: "El Profesor",
-    song: "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2Fbellaciao.mp3?alt=media&token=e1dd8233-3521-4574-8957-d51af9a5db5c",
+    song: "https://www.pagalworld.com.se/files/download/id/5801",
     imgSrc:
       "https://w0.peakpx.com/wallpaper/728/1006/HD-wallpaper-bella-ciao-black-and-white-money-heist-money-heist-red-background-season-text.jpg",
   },
@@ -59,7 +59,7 @@ const Songs = [
     artist: "Gopi Sundar",
     song: "https://pagaliworld.com/files/download/id/7849",
     imgSrc:
-      "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Images%2Fcharlie.jpg?alt=media&token=81a1dc08-a9af-4db2-b74d-1f50315f9342",
+      "https://e1.pxfuel.com/desktop-wallpaper/471/415/desktop-wallpaper-dulquer-salmaan-charlie-malayalam-movie.jpg",
   },
   {
     id: 8,
